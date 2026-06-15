@@ -87,17 +87,5 @@ Everything runs on a single **gram-based nutrition engine**, which is why the fe
 
 ---
 
-## Getting started
-
-> Setup instructions will be added as the stack is scaffolded.
-
-```bash
-git clone https://github.com/ahernandez41/sum-like-it-hot.git
-cd sum-like-it-hot
-```
-
----
-
-## License
-
-See [LICENSE](LICENSE).
+## Tech Stack 
+In progress 
