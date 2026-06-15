@@ -15,7 +15,7 @@ The "conscious" part comes from **clarity, not coaching**. You see exactly what'
 
 ---
 
-## The five pillars
+## Notes
 
 ### 1. Recipe Box
 Your collection of reusable recipes. Paste a recipe in plain text — *"2 cups flour, 1 stick butter, 3 eggs..."* — and the AI:
@@ -84,18 +84,6 @@ Everything runs on a single **gram-based nutrition engine**, which is why the fe
 3. **Look up** nutrition per ingredient → sum the batch
 4. **Divide** by servings or per 100g for any view
 5. **Invert** the math for portion-from-target
-
-Pillars 3 → 5 are all just different questions asked of the same gram math.
-
----
-
-## Status
-
-Early development: vision locked, building v1.
-
-**v1 scope:** Recipe Box · Journal · Nutrition · Adapt · Portion-from-Target
-
-**Later:** one-tap "recalculate this bake with my changes," keto/low-carb adaptations, photo recipe import, recipe sharing.
 
 ---
 
