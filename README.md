@@ -92,39 +92,13 @@ Everything runs on a single **gram-based nutrition engine**, which is why the fe
 
 ---
 
-## Service
-### Web
-- React.js 
-### API
-Java 
-### AI Agent
-Python (FastAPI)
-### Database
-PostgreSQL
-### Cache 
-Redis
+## Services
+<img width="1320" height="202" alt="image" src="https://github.com/user-attachments/assets/234af7d0-7b24-4048-b3a3-19a032fd98a9" />
 
 ---
 
 ## Tech Stack
-### Frontend
-- React.js
-- TypeScript
-### API & Nutrition Engine
-- Java
-- Spring Boot
-### AI Services
-- Python
-- FastAPI
-### Database
-- PostgreSQL
-### Cache 
-- Redis
-### Containerization
-- Docker
-### Orchistrator
-- Kubernetes
-### CI/CD
-- GitHub Actions
-### Optional path: Cloud
-- AWS
+<img width="442" height="306" alt="image" src="https://github.com/user-attachments/assets/8dedaadc-cbf7-418d-b94a-f29452911f2c" />
+
+---
+
