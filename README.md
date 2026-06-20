@@ -21,7 +21,7 @@ The "conscious" part comes from **clarity, not coaching**. You see exactly what'
 Your collection of reusable recipes. Paste a recipe in plain text — *"2 cups flour, 1 stick butter, 3 eggs..."* — and the AI:
 - Parses it into structured ingredients
 - Converts everything to **grams** (handling cups/sticks/units → weight)
-- Lets you **confirm or correct** before saving
+- Lets you **confirm** before saving
 - Computes nutrition for the whole batch, **per 100g**, and **per serving**
 
 ### 2. Journal
